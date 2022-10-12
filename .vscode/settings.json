@@ -1,0 +1,13 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "connectString": "postgres://vpozkmjm:3PdJGjAo84Y2ti51zOqZolXvYgDJYE_r@peanut.db.elephantsql.com/vpozkmjm",
+            "name": "movie_theater_mockup"
+        }
+    ]
+}
